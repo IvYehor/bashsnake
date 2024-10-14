@@ -1,5 +1,7 @@
 # bashsnake
-A Snake in BASH
+A Snake game written in BASH.
+
+The controls are WASD.
 
 # Install
 
